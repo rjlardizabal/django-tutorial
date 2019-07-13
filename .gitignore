@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+mysite/__pycache__/settings.cpython-37.pyc
